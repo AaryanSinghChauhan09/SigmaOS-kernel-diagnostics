@@ -3,7 +3,7 @@ name = "SigmaOS-kernel-diagnostics"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "kernel-diagnostics component"
+description = "kernel diagnostics component"
 upstream = []
 
 [contract]
